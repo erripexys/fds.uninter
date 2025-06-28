@@ -1,0 +1,43 @@
+h1{color:black; font-size:xx-large }
+h1 {text-align: center;}
+
+
+.supertitulo{font-size: 45px}
+
+.titulohobbie {color: black; font-size: 30px}
+
+
+.biografia {
+    text-align: justify; font-size: x-large;
+}
+
+.hobbies {font-size: 20px; color:black;}
+
+body { background-color:antiquewhite}
+
+.paises{
+    text-align: center;
+}
+table {border-collapse: collapse;background-color: cadetblue;}
+
+table td , th {
+    border : 1px solid black;
+  
+}
+
+.bio {
+    border-radius: 30px;
+}
+
+a {color: black; } 
+
+a:hover {color: blueviolet;}
+
+a {text-align: center;font-size: x-large;}
+
+button {background-color: wheat; border-radius: 10px; font-size: medium; 
+}
+
+#texto{
+    font-size: 23px
+}
