@@ -1,4 +1,4 @@
-h1{color:black; font-size:xx-large }
+h1{color:purple; font-size:xx-large }
 h1 {text-align: center;}
 
 
@@ -40,4 +40,8 @@ button {background-color: wheat; border-radius: 10px; font-size: medium;
 
 #texto{
     font-size: 23px
+}
+
+.videogame {
+    border-radius: 30px;
 }
